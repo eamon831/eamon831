@@ -7,7 +7,6 @@ I'm a passionate **Software Engineer** with expertise in **Flutter** and **mobil
 - **iOS App Automation**: Automated publishing workflows using **Fastlane** and the **Apple Developer API**.
 - **E-commerce App Development**: Dynamic **variant selection systems** and seamless user experiences.
 - **API Integration**: Extensive experience integrating APIs and third-party services like **RevenueCat**.
-- **Game-inspired UX**: Implementing **zoom and pan functionality** similar to Clash of Clans for interactive surfaces.
 - **Competitive Programming**: Strong knowledge in **Data Structures & Algorithms (DSA)**.
 
 I love solving complex technical challenges, writing efficient automation scripts, and enhancing app performance. I'm constantly learning new tools and frameworks, working toward my long-term dream of joining Google as a software engineer.
