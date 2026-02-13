@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD Saiful Hossain
 
-I'm a passionate **Software Engineer** with expertise in **Flutter** and **mobile app development**. Over the past 2+ years, I’ve developed and delivered high-quality apps across various industries, including large-scale e-commerce platforms and mid-sized solutions, for both **Android** and **iOS**.
+I'm a passionate **Software Engineer** with expertise in **Flutter** and **mobile app development**. Over the past 3+ years, I’ve developed and delivered high-quality apps across various industries, including large-scale e-commerce platforms and mid-sized solutions, for both **Android** and **iOS**.
 
 ### 🔧 My Key Expertise:
 - **Flutter Development**: Widget management, performance optimization, and state handling with **GetX**.
