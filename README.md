@@ -1,19 +1,41 @@
-# 👋 Hi, I'm MD Saiful Hossain
+# MD Saiful Hossain
 
-I'm a passionate **Software Engineer** with expertise in **Flutter** and **mobile app development**. Over the past 3+ years, I’ve developed and delivered high-quality apps across various industries, including large-scale e-commerce platforms and mid-sized solutions, for both **Android** and **iOS**.
+Software engineer in Dhaka, Bangladesh. Four years building cross-platform mobile apps at **Lazycoders LLC**, and increasingly building the AI systems around them.
 
-### 🔧 My Key Expertise:
-- **Flutter Development**: Widget management, performance optimization, and state handling with **GetX**.
-- **iOS App Automation**: Automated publishing workflows using **Fastlane** and the **Apple Developer API**.
-- **E-commerce App Development**: Dynamic **variant selection systems** and seamless user experiences.
-- **API Integration**: Extensive experience integrating APIs and third-party services like **RevenueCat**.
-- **Competitive Programming**: Strong knowledge in **Data Structures & Algorithms (DSA)**.
+### Mobile
 
-I love solving complex technical challenges, writing efficient automation scripts, and enhancing app performance. I'm constantly learning new tools and frameworks, working toward my long-term dream of joining Google as a software engineer.
+Flutter and Dart across Android and iOS, with apps live on both stores.
 
-### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/md-saiful-hossain-053190225/)
-- [GitHub](https://github.com/eamon831)
-- [Email](mailto:mdsaiful.rbs@gmail.com)
+I led the mobile team on **Appza**, a no-code app builder for WordPress. The interesting part is a custom **JSON-to-Flutter rendering engine** that turns a site's configuration into a running app, with integrations for WooCommerce, TutorLMS, LearnDash and Fluent Community.
 
-Let's build something awesome together! 🚀
+Before that, **Nourish**: offline-first veterinary data collection for low-connectivity field work. 100+ SQLite tables, 90+ consolidated APIs. When the network is unreliable, sync conflict handling stops being a detail and becomes the product.
+
+On the commerce side: dynamic product variant selection, and subscriptions and in-app purchases through **RevenueCat**.
+
+State management with **GetX** in production, **Riverpod** on new work, **BLoC** where it fits.
+
+### Release engineering
+
+I own production releases end to end: signing, versioning, staged rollout, and iOS publishing automated with **Fastlane** and the App Store Connect API.
+
+### AI systems
+
+Two personal projects drive most of what I have learned recently.
+
+**Studio-Ops** is an autonomous video studio built on **OpenClaw**, where a director agent coordinates per-channel bots and git serves as the shared memory between them. It produced twelve videos end to end before I paused it on GPU credits. Generation sits behind an adapter, currently LTX 2.3, Wan 2.2 and Flux.2 through the ComfyUI API, with thirty benchmarked workflow variants behind the model choices rather than guesswork.
+
+**Master Mosai** is a retrieval service in Python: FastAPI, ChromaDB, LangChain chunking, Ollama embeddings, Redis and Postgres, with 128 tests.
+
+Some of that work is public here — see [`runpod-comfyui-worker`](https://github.com/eamon831/runpod-comfyui-worker), a RunPod serverless worker for ComfyUI video generation.
+
+### Background
+
+BSc in Computer Science and Engineering, Uttara University. 166 Codeforces contests through university, and onsite inter-university programming contests at BUET, AUST and RUET. English at C1 (PTE Academic 67).
+
+Open to Flutter and AI engineering roles, remote or with relocation.
+
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/saiful-hossain-cs/
+- Portfolio: https://eamon831.github.io/
+- Email: mdsaiful.rbs@gmail.com
