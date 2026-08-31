@@ -6,7 +6,7 @@ Software engineer in Dhaka, Bangladesh. Four years building cross-platform mobil
 
 Flutter and Dart across Android and iOS, with apps live on both stores.
 
-I led the mobile team on **Appza**, a no-code app builder for WordPress. The interesting part is a custom **JSON-to-Flutter rendering engine** that turns a site's configuration into a running app, with integrations for WooCommerce, TutorLMS, LearnDash and Fluent Community.
+The project I maintain is **Appza**, a no-code app builder for WordPress. The interesting part is a custom **JSON-to-Flutter rendering engine** that turns a site's configuration into a running app, with integrations for WooCommerce, TutorLMS, LearnDash and Fluent Community. We are a two-person mobile team and I am the senior one, so I own the architecture and mentor the junior developer.
 
 Before that, **Nourish**: offline-first veterinary data collection for low-connectivity field work. 100+ SQLite tables, 90+ consolidated APIs. When the network is unreliable, sync conflict handling stops being a detail and becomes the product.
 
