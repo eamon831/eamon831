@@ -10,7 +10,7 @@ The project I maintain is **Appza**, a no-code app builder for WordPress. The in
 
 Before that, **Nourish**: offline-first veterinary data collection for low-connectivity field work. 100+ SQLite tables, 90+ consolidated APIs. When the network is unreliable, sync conflict handling stops being a detail and becomes the product.
 
-On the commerce side: dynamic product variant selection, and subscriptions and in-app purchases through **RevenueCat**.
+On the commerce side: dynamic product variant selection for the e-commerce apps.
 
 State management with **Riverpod** on current work, **BLoC** where it fits.
 
