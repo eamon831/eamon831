@@ -12,7 +12,7 @@ Before that, **Nourish**: offline-first veterinary data collection for low-conne
 
 On the commerce side: dynamic product variant selection, and subscriptions and in-app purchases through **RevenueCat**.
 
-State management with **GetX** in production, **Riverpod** on new work, **BLoC** where it fits.
+State management with **Riverpod** on current work, **BLoC** where it fits.
 
 ### Release engineering
 
