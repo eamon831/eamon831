@@ -30,7 +30,7 @@ Some of that work is public here — see [`runpod-comfyui-worker`](https://githu
 
 ### Background
 
-BSc in Computer Science and Engineering, Uttara University. 166 Codeforces contests through university, and onsite inter-university programming contests at BUET, AUST and RUET. English at C1 (PTE Academic 67).
+BSc in Computer Science and Engineering, Uttara University. 166 Codeforces contests through university, and onsite inter-university programming contests at BUET, AUST and RUET. English: PTE Academic 67.
 
 Open to Flutter and AI engineering roles, remote or with relocation.
 
