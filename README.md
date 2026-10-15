@@ -22,7 +22,7 @@ I own production releases end to end: signing, versioning, staged rollout, and i
 
 Three personal projects drive most of what I have learned recently.
 
-**Farcall** runs AI coding agents (Claude Code, Codex) on your computer and lets you drive them from your phone: chat, watch replies stream, approve every command before it runs. A Dart service on Mac, Windows and Linux, a Flutter Android app, and Tailscale built into both sides, so no VPN app and no server in between. It talks to Claude Code over its stream-json protocol, including the hidden approval channel. 14 public releases since October 2026; colleagues run it on macOS and Ubuntu. [Download and docs](https://github.com/eamon831/farcall-releases).
+**Farcall** runs AI coding agents (Claude Code, Codex) on your computer and lets you drive them from your phone: chat, watch replies stream, approve every command before it runs. A Dart service on Mac, Windows and Linux, a Flutter Android app, and Tailscale built into both sides, so no VPN app and no server in between. It talks to Claude Code over its stream-json protocol, including the hidden approval channel. 14 public releases since October 2026; colleagues run it on macOS and Ubuntu. [farcall.app](https://farcall.app) · [Download and docs](https://github.com/eamon831/farcall-releases).
 
 **Studio-Ops** is an autonomous video studio built on **OpenClaw**, where a director agent coordinates per-channel bots and git serves as the shared memory between them. It produced twelve videos end to end before I paused it on GPU credits. Generation sits behind an adapter, currently LTX 2.3, Wan 2.2 and Flux.2 through the ComfyUI API, with thirty benchmarked workflow variants behind the model choices rather than guesswork.
 
